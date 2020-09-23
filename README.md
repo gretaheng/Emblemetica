@@ -1,1 +1,2 @@
 # Emblemetica
+## A Repository for Emblemetica Online Project (http://emblematica.grainger.illinois.edu/), which includes Python script and Jupyter Notebook used for data exploration and metadata field summary. Findings were presented at 2020 LD4 Conference on Linked Data in Libraries (https://ld42020.sched.com/event/cjIP/linked-data-for-chronological-period-definitions-emblematica-as-linked-data-case-study-modeling-cultural-heritage-information-on-the-medieval-middle-east ).
